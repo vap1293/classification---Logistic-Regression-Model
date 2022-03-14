@@ -1,2 +1,3 @@
-# classification-Logistic-Regression-Model
-Classification task - Logistic Regression model used for the purpose of classification
+### Classification-using-Logistic-Regression-Model
+- Machine Learning project based on binary classification task
+- 
